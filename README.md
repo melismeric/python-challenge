@@ -1,3 +1,3 @@
 Python Challenge
 
-Solutions:
+
